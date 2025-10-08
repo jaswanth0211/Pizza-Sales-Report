@@ -71,6 +71,6 @@ Sales peaked during weekends and evenings, showing customer purchase patterns.
 
 The top 5 pizzas generated more than 50% of total sales.
 
-# contributer 
+# contributor 
 Parimi jaswanth - project creater
 
