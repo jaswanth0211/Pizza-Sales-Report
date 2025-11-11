@@ -19,12 +19,15 @@ Size-wise Performance: Compares the performance of various pizza sizes to identi
 
 # Tools & Technologies
 Power BI – Data visualization & dashboard creation
+
 SQL – Data extraction and transformation
+
 Excel (.xlsx) – Dataset source file
+
 Power Query Editor – Data cleaning and preprocessing
 
 # Getting Started
-1. Data Analysis using SQL
+# 1. Data Analysis using SQL
 
 All SQL queries used for cleaning and analyzing the pizza sales data are included in the file:
  pizza_sales_analysis.sql
@@ -39,7 +42,7 @@ Determining daily and monthly sales trends
 
 Identifying category and size-wise distribution
 
-2. Creating Dashboards using Power BI
+# 2. Creating Dashboards using Power BI
 
 The Power BI report file pizza_sales_report.pbix contains all the dashboards built using the SQL data.
 
@@ -58,19 +61,27 @@ KPI Cards (Total Sales, Orders, Quantity)
 # Dashboard Overview
 
 The Pizza Sales Dashboard visually represents the key sales metrics and performance indicators of a pizza business. It provides an intuitive, data-driven view of how products and time factors influence revenue.
+
 Key Components:
+
 KPI Section:
 Displays Total Revenue, Total Orders, Average Order Value, and Total Pizzas Sold.
+
 Sales by Category Chart:
 Compares performance of Classic, Supreme, Veggie, and Chicken pizzas.
+
 Top 5 Best-Selling Pizzas:
 Highlights the pizzas generating the highest revenue and order count.
+
 Sales by Size Chart:
 Visualizes which pizza sizes (S, M, L, XL) contribute most to total sales.
+
 Revenue by Date Line Chart:
 Shows daily or monthly revenue trends over time.
+
 Hourly & Weekly Heat Map:
 Identifies the most active order times and days of the week.
+
 The dashboard is interactive, allowing users to drill down into details, compare time periods, and uncover trends that affect performance.
 
 # Insights Gained
@@ -82,6 +93,13 @@ Classic and Supreme categories were the top-performing categories.
 Sales peaked during weekends and evenings, showing customer purchase patterns.
 
 The top 5 pizzas generated more than 50% of total sales.
+
+# Conclusion
+
+This project helped in understanding how real-world sales data can be transformed into business insights using data analytics tools.
+By using Power BI and SQL together, I was able to visualize data trends, understand sales behavior, and improve decision-making strategies.
+
+The Pizza Sales Dashboard can be a great resource for restaurant managers and analysts to monitor business performance and optimize their operations.
 
 # contributor 
 Parimi jaswanth - project creater
