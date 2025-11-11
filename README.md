@@ -27,7 +27,7 @@ Excel (.xlsx) – Dataset source file
 Power Query Editor – Data cleaning and preprocessing
 
 # Getting Started
-# 1. Data Analysis using SQL
+1. Data Analysis using SQL
 
 All SQL queries used for cleaning and analyzing the pizza sales data are included in the file:
  pizza_sales_analysis.sql
@@ -42,7 +42,7 @@ Determining daily and monthly sales trends
 
 Identifying category and size-wise distribution
 
-# 2. Creating Dashboards using Power BI
+ 2. Creating Dashboards using Power BI
 
 The Power BI report file pizza_sales_report.pbix contains all the dashboards built using the SQL data.
 
