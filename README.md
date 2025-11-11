@@ -101,6 +101,5 @@ By using Power BI and SQL together, I was able to visualize data trends, underst
 
 The Pizza Sales Dashboard can be a great resource for restaurant managers and analysts to monitor business performance and optimize their operations.
 
-# contributor 
-Parimi jaswanth - project creater
+
 
