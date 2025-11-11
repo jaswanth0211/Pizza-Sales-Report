@@ -18,17 +18,16 @@ Top Products: Highlights top-selling pizzas by revenue, quantity sold, and numbe
 Size-wise Performance: Compares the performance of various pizza sizes to identify customer preferences.
 
 # Tools & Technologies
-
-SQL – Data extraction, transformation, and analysis
-
-Power BI – Dashboard creation and visualization
+Power BI – Data visualization & dashboard creation
+SQL – Data extraction and transformation
+Excel (.xlsx) – Dataset source file
+Power Query Editor – Data cleaning and preprocessing
 
 # Getting Started
-
 1. Data Analysis using SQL
 
 All SQL queries used for cleaning and analyzing the pizza sales data are included in the file:
-📄 pizza_sales_analysis.sql
+ pizza_sales_analysis.sql
 
 The queries perform operations like:
 
@@ -58,8 +57,21 @@ KPI Cards (Total Sales, Orders, Quantity)
 
 # Dashboard Overview
 
-The Power BI dashboard provides clear and interactive visuals that help business owners and analysts make data-driven decisions.
-It allows filtering by date, pizza type, category, and size, making it easy to explore insights dynamically.
+The Pizza Sales Dashboard visually represents the key sales metrics and performance indicators of a pizza business. It provides an intuitive, data-driven view of how products and time factors influence revenue.
+Key Components:
+KPI Section:
+Displays Total Revenue, Total Orders, Average Order Value, and Total Pizzas Sold.
+Sales by Category Chart:
+Compares performance of Classic, Supreme, Veggie, and Chicken pizzas.
+Top 5 Best-Selling Pizzas:
+Highlights the pizzas generating the highest revenue and order count.
+Sales by Size Chart:
+Visualizes which pizza sizes (S, M, L, XL) contribute most to total sales.
+Revenue by Date Line Chart:
+Shows daily or monthly revenue trends over time.
+Hourly & Weekly Heat Map:
+Identifies the most active order times and days of the week.
+The dashboard is interactive, allowing users to drill down into details, compare time periods, and uncover trends that affect performance.
 
 # Insights Gained
 
